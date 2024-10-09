@@ -1,8 +1,8 @@
-<h1 align="center">Efficent Window Aggregation in Decentralized Networks </h1>
+<h1 align="center">Dema: Efficient Decentralized Aggregation for Non-Decomposable Quantile Functions </h1>
 
 # Dema
 
-Dema is a decentralized window aggregation approach that mainly focus on time-based windows with decomposable function.
+Dema is a decentralized window aggregation approach that mainly focuses on time-based windows with decomposable functions, e.g., median and quantile.
     
 # Installation
 
