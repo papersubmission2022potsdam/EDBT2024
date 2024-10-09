@@ -8,7 +8,7 @@ Dema is a decentralized window aggregation approach that mainly focuses on time-
 
 - **Requirements**: Java 8+
 - **Install**
-     1. Download DESengine
+     1. Download EDBT2024
      2. Compile Project
      3. Set `WINDOWS = true` in `Configuration.java`
      4. Run OverallMainDriverTest.java
@@ -18,8 +18,6 @@ Dema is a decentralized window aggregation approach that mainly focuses on time-
 Dema
   - Node Id: 
     - The id of the node that is deployed with Dema.
-  - Query Number: 
-    - How many queries are processed simultaneously.
   - Query Modes: 
     - The query mode is to choose the query pattern that is set into query generation file.
   - Generator Thread Number: 
